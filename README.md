@@ -15,11 +15,11 @@ Conteúdo meramente instrutivo, exemplificando como usar linguegens de programa�
 
 Gráficos com dados da Câmara Municipal de São Paulo, até mês agosto/2023
 
-A fonte de dados foi obtida por meio do programa [gabinete-sp-api.ipynb](gabinete-sp-api.ipynb) que tem vários exemplos de como usar a API do portal da transparência [https://sisgvconsulta.saopaulo.sp.leg.br](https://sisgvconsulta.saopaulo.sp.leg.br/ ), onde no final gero o arquivo [detalhe_sp_2023.csv](detalhe_sp_2023.csv) com compondo os vários meses.
+A fonte de dados foi obtida por meio do programa [gabinete-sp-api.ipynb](gabinete-sp-api.ipynb) que tem vários exemplos de como usar a API do portal da transparência [sisgvconsulta.saopaulo.sp.leg.br](https://sisgvconsulta.saopaulo.sp.leg.br), onde no final gero o arquivo [detalhe_sp_2023.csv](detalhe_sp_2023.csv) com compondo os vários meses.
 
-Para abrir o programa recomendo usar o [https://colab.google/](Colab Google), ou instalar as ferramentas Python necessárias
+Para abrir o programa recomendo usar o [Colab Google](https://colab.google/), ou instalar as ferramentas Python necessárias
 
-[https://powerbi.microsoft.com/pt-br/downloads](Baixe o PowerBI, gratuitamente no site da Microsoft) e baixe e abra o arquivo [SP-Capital.pbix](SP-Capital.pbix) para poder visualizar de forma interativa.
+[Baixe o PowerBI, gratuitamente no site da Microsoft](https://powerbi.microsoft.com/pt-br/downloads) e baixe e abra o arquivo [SP-Capital.pbix](SP-Capital.pbix) para poder visualizar de forma interativa.
 
 ![Grafico](PBI-SP1.png)
 
@@ -31,4 +31,6 @@ Veja também:
 
 ### Convite
 
-Participe dessa iniciativa, criando mais exemplos com dados da sua cidade, provendo assim informação mais organizada com os dados abertos.
+Participe dessa iniciativa, fazendo um Fork, e submetendo mais exemplos com dados da sua cidade, provendo assim informação mais organizada com os dados abertos.
+
+Participe da comunidade, e do grupo de programação em [Python no WhatsApp](https://chat.whatsapp.com/CJRyNwXXhnQ10JUiWhdZEN)
