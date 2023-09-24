@@ -6,16 +6,16 @@ Projeto com objetivo de analisar vereadores por meio dos dados dos portais de tr
 
 Conteúdo meramente instrutivo, exemplificando como usar linguegens de programação python para ler dados abertos de portais quaisquer, no caso aqui os portais de transparência de algumas cidades
 
-* [gabinete-campinas.ipynb](https://github.com/impactro/Vereadores/gabinete-campinas.ipynb)
-* [gabinete-sp-detalhe.ipynb](https://github.com/impactro/Vereadores/gabinete-sp-detalhe.ipynb)
-* [gabinete-sp.ipynb](https://github.com/impactro/Vereadores/gabinete-sp.ipynb)
-* [santo-andre.ipynb](https://github.com/impactro/Vereadores/santo-andre.ipynb)
+* [gabinete-campinas.ipynb](https://github.com/impactro/Vereadores/blob/main/gabinete-campinas.ipynb)
+* [gabinete-sp-detalhe.ipynb](https://github.com/impactro/Vereadores/blob/main/gabinete-sp-detalhe.ipynb)
+* [gabinete-sp.ipynb](https://github.com/impactro/Vereadores/blob/main/gabinete-sp.ipynb)
+* [santo-andre.ipynb](https://github.com/impactro/Vereadores/blob/main/santo-andre.ipynb)
 
 ## Exemplo Power BI
 
 Gráficos com dados da Câmara Municipal de São Paulo, até mês agosto/2023
 
-A fonte de dados foi obtida por meio do programa [gabinete-sp-api.ipynb](https://github.com/impactro/Vereadores/gabinete-sp-api.ipynb) que tem vários exemplos de como usar a API do portal da transparência [sisgvconsulta.saopaulo.sp.leg.br](https://sisgvconsulta.saopaulo.sp.leg.br), onde no final gero o arquivo [detalhe_sp_2023.csv](detalhe_sp_2023.csv) com compondo os vários meses.
+A fonte de dados foi obtida por meio do programa [gabinete-sp-api.ipynb](https://github.com/impactro/Vereadores/blob/main/gabinete-sp-api.ipynb) que tem vários exemplos de como usar a API do portal da transparência [sisgvconsulta.saopaulo.sp.leg.br](https://sisgvconsulta.saopaulo.sp.leg.br), onde no final gero o arquivo [detalhe_sp_2023.csv](detalhe_sp_2023.csv) com compondo os vários meses.
 
 Para abrir o programa recomendo usar o [Colab Google](https://colab.google/), ou instalar as ferramentas Python necessárias
 
